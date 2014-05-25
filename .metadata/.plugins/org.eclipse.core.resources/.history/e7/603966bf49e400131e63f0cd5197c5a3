@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="gerenciador-tarefas-curso-android">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp"/>
+        <property name="context-root" value="gerenciador-tarefas-curso-android"/>
+        <property name="java-output-path" value="/gerenciador-tarefas-curso-android/target/classes"/>
+    </wb-module>
+</project-modules>

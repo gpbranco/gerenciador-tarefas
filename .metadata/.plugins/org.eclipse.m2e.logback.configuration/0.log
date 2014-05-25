@@ -1,0 +1,383 @@
+2014-03-11 22:06:40,198 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2014-03-11 22:06:40,263 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2014-03-11 22:06:40,267 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2014-03-11 22:07:09,346 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bravisoftware.samples:tic-tac-toe-restful:0.0.1-SNAPSHOT @ C:\Users\Guilherme\git\tic-tac-toe-restful\pom.xml.
+2014-03-11 22:07:22,523 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tic-tac-toe-restful/src/main/java
+2014-03-11 22:07:22,523 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tic-tac-toe-restful/src/main/resources
+2014-03-11 22:07:22,524 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tic-tac-toe-restful/src/test/java
+2014-03-11 22:07:22,586 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bravisoftware.samples:tic-tac-toe-restful:0.0.1-SNAPSHOT @ C:\Users\Guilherme\git\tic-tac-toe-restful\pom.xml.
+2014-03-11 22:07:25,399 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 34 sec
+2014-03-11 22:07:42,405 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-03-11 22:07:42,405 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-03-11 22:08:08,965 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bravisoftware.samples:tic-tac-toe-restful:0.0.1-SNAPSHOT @ C:\Users\Guilherme\git\tic-tac-toe-restful\pom.xml.
+2014-03-11 22:08:17,286 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-11 22:08:17,290 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-03-11 22:08:17,472 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-11 22:08:17,472 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\git\tic-tac-toe-restful\src\test\resources
+2014-03-11 22:09:35,270 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-11 22:09:35,272 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-03-11 22:09:35,273 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-03-11 22:09:35,273 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\git\tic-tac-toe-restful\src\test\resources
+2014-05-25 13:19:08,405 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:09,584 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/codehaus/mojo/aspectj-maven-plugin/1.4/aspectj-maven-plugin-1.4.jar
+2014-05-25 13:19:09,598 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:09,984 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/codehaus/mojo/aspectj-maven-plugin/1.4/aspectj-maven-plugin-1.4.jar
+2014-05-25 13:19:09,991 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:10,333 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/codehaus/mojo/aspectj-maven-plugin/1.4/aspectj-maven-plugin-1.4.jar
+2014-05-25 13:19:10,340 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:10,833 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/mojo/aspectj-maven-plugin/1.4/aspectj-maven-plugin-1.4.jar
+2014-05-25 13:19:11,184 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/mojo/aspectj-maven-plugin/1.4/aspectj-maven-plugin-1.4.jar
+2014-05-25 13:19:13,368 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2014-05-25 13:19:19,004 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.curso.android.gerenciadortarefas:gerenciador-tarefas-curso-android:0.1.0.BUILD-SNAPSHOT @ C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\pom.xml.
+2014-05-25 13:19:19,088 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:19,452 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/log4j/log4j/1.2.17/log4j-1.2.17.pom
+2014-05-25 13:19:19,461 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:19,823 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/log4j/log4j/1.2.17/log4j-1.2.17.pom
+2014-05-25 13:19:19,834 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:20,362 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/log4j/log4j/1.2.17/log4j-1.2.17.pom
+2014-05-25 13:19:20,368 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:20,684 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17.pom
+2014-05-25 13:19:20,851 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17.pom
+2014-05-25 13:19:21,171 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:21,522 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/slf4j/jcl-over-slf4j/1.7.5/jcl-over-slf4j-1.7.5.pom
+2014-05-25 13:19:21,543 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:21,926 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/slf4j/jcl-over-slf4j/1.7.5/jcl-over-slf4j-1.7.5.pom
+2014-05-25 13:19:21,945 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:22,297 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/slf4j/jcl-over-slf4j/1.7.5/jcl-over-slf4j-1.7.5.pom
+2014-05-25 13:19:22,322 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:22,643 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.5/jcl-over-slf4j-1.7.5.pom
+2014-05-25 13:19:22,658 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.5/jcl-over-slf4j-1.7.5.pom
+2014-05-25 13:19:22,887 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:23,276 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.pom
+2014-05-25 13:19:23,292 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:23,644 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.pom
+2014-05-25 13:19:23,659 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:24,016 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.pom
+2014-05-25 13:19:24,034 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:24,377 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.pom
+2014-05-25 13:19:24,386 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.pom
+2014-05-25 13:19:24,649 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:25,006 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.springframework.org/release/org/aspectj/aspectjrt/1.7.2/aspectjrt-1.7.2.pom
+2014-05-25 13:19:25,021 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/aspectj/aspectjrt/1.7.2/aspectjrt-1.7.2.pom
+2014-05-25 13:19:25,340 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:25,731 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.springframework.org/release/org/aspectj/aspectjweaver/1.7.2/aspectjweaver-1.7.2.pom
+2014-05-25 13:19:25,738 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/aspectj/aspectjweaver/1.7.2/aspectjweaver-1.7.2.pom
+2014-05-25 13:19:26,221 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:26,594 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/springframework/roo/org.springframework.roo.annotations/1.2.4.RELEASE/org.springframework.roo.annotations-1.2.4.RELEASE.pom
+2014-05-25 13:19:26,633 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:27,048 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/springframework/roo/org.springframework.roo.annotations/1.2.4.RELEASE/org.springframework.roo.annotations-1.2.4.RELEASE.pom
+2014-05-25 13:19:27,072 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:27,749 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://spring-roo-repository.springsource.org/release/org/springframework/roo/org.springframework.roo.annotations/1.2.4.RELEASE/org.springframework.roo.annotations-1.2.4.RELEASE.pom
+2014-05-25 13:19:27,763 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/springframework/roo/org.springframework.roo.annotations/1.2.4.RELEASE/org.springframework.roo.annotations-1.2.4.RELEASE.pom
+2014-05-25 13:19:28,012 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:28,416 [New I/O client worker #22-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/springframework/roo/org.springframework.roo.osgi.bundle/1.2.4.RELEASE/org.springframework.roo.osgi.bundle-1.2.4.RELEASE.pom
+2014-05-25 13:19:28,432 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:28,887 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/springframework/roo/org.springframework.roo.osgi.bundle/1.2.4.RELEASE/org.springframework.roo.osgi.bundle-1.2.4.RELEASE.pom
+2014-05-25 13:19:28,901 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:29,654 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://spring-roo-repository.springsource.org/release/org/springframework/roo/org.springframework.roo.osgi.bundle/1.2.4.RELEASE/org.springframework.roo.osgi.bundle-1.2.4.RELEASE.pom
+2014-05-25 13:19:29,662 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/springframework/roo/org.springframework.roo.osgi.bundle/1.2.4.RELEASE/org.springframework.roo.osgi.bundle-1.2.4.RELEASE.pom
+2014-05-25 13:19:30,210 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:30,620 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/springframework/roo/org.springframework.roo.root/1.2.4.RELEASE/org.springframework.roo.root-1.2.4.RELEASE.pom
+2014-05-25 13:19:30,640 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:31,101 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/springframework/roo/org.springframework.roo.root/1.2.4.RELEASE/org.springframework.roo.root-1.2.4.RELEASE.pom
+2014-05-25 13:19:31,119 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:31,790 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://spring-roo-repository.springsource.org/release/org/springframework/roo/org.springframework.roo.root/1.2.4.RELEASE/org.springframework.roo.root-1.2.4.RELEASE.pom
+2014-05-25 13:19:32,151 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/springframework/roo/org.springframework.roo.root/1.2.4.RELEASE/org.springframework.roo.root-1.2.4.RELEASE.pom
+2014-05-25 13:19:32,763 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:33,142 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.springframework.org/release/org/springframework/spring-aspects/3.2.3.RELEASE/spring-aspects-3.2.3.RELEASE.pom
+2014-05-25 13:19:33,153 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/springframework/spring-aspects/3.2.3.RELEASE/spring-aspects-3.2.3.RELEASE.pom
+2014-05-25 13:19:33,455 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:33,835 [New I/O client worker #29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.springframework.org/release/org/springframework/spring-context-support/3.2.3.RELEASE/spring-context-support-3.2.3.RELEASE.pom
+2014-05-25 13:19:33,848 [New I/O client worker #29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/springframework/spring-context-support/3.2.3.RELEASE/spring-context-support-3.2.3.RELEASE.pom
+2014-05-25 13:19:34,113 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:34,486 [New I/O client worker #30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/log4j/log4j/1.2.17/log4j-1.2.17.jar
+2014-05-25 13:19:34,491 [New I/O client worker #30-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/slf4j/jcl-over-slf4j/1.7.5/jcl-over-slf4j-1.7.5.jar
+2014-05-25 13:19:34,505 [New I/O client worker #30-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.jar
+2014-05-25 13:19:34,511 [New I/O client worker #30-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/springframework/roo/org.springframework.roo.annotations/1.2.4.RELEASE/org.springframework.roo.annotations-1.2.4.RELEASE.jar
+2014-05-25 13:19:34,516 [New I/O client worker #30-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.springframework.org/release/org/springframework/spring-aspects/3.2.3.RELEASE/spring-aspects-3.2.3.RELEASE.jar
+2014-05-25 13:19:34,526 [New I/O client worker #30-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.springframework.org/release/org/springframework/spring-context-support/3.2.3.RELEASE/spring-context-support-3.2.3.RELEASE.jar
+2014-05-25 13:19:34,536 [New I/O client worker #30-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.springframework.org/release/org/aspectj/aspectjweaver/1.7.2/aspectjweaver-1.7.2.jar
+2014-05-25 13:19:34,552 [New I/O client worker #30-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.springframework.org/release/org/aspectj/aspectjrt/1.7.2/aspectjrt-1.7.2.jar
+2014-05-25 13:19:34,870 [New I/O client worker #30-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/springframework/spring-aspects/3.2.3.RELEASE/spring-aspects-3.2.3.RELEASE.jar
+2014-05-25 13:19:35,428 [New I/O client worker #30-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/springframework/spring-context-support/3.2.3.RELEASE/spring-context-support-3.2.3.RELEASE.jar
+2014-05-25 13:19:35,664 [New I/O client worker #30-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/aspectj/aspectjrt/1.7.2/aspectjrt-1.7.2.jar
+2014-05-25 13:19:40,466 [New I/O client worker #30-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/aspectj/aspectjweaver/1.7.2/aspectjweaver-1.7.2.jar
+2014-05-25 13:19:41,644 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:41,998 [New I/O client worker #31-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/log4j/log4j/1.2.17/log4j-1.2.17.jar
+2014-05-25 13:19:42,014 [New I/O client worker #31-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.jar
+2014-05-25 13:19:42,019 [New I/O client worker #31-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/slf4j/jcl-over-slf4j/1.7.5/jcl-over-slf4j-1.7.5.jar
+2014-05-25 13:19:42,035 [New I/O client worker #31-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/springframework/roo/org.springframework.roo.annotations/1.2.4.RELEASE/org.springframework.roo.annotations-1.2.4.RELEASE.jar
+2014-05-25 13:19:42,066 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:42,402 [New I/O client worker #32-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/log4j/log4j/1.2.17/log4j-1.2.17.jar
+2014-05-25 13:19:42,413 [New I/O client worker #32-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/slf4j/jcl-over-slf4j/1.7.5/jcl-over-slf4j-1.7.5.jar
+2014-05-25 13:19:42,453 [New I/O client worker #32-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.jar
+2014-05-25 13:19:42,762 [New I/O client worker #32-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://spring-roo-repository.springsource.org/release/org/springframework/roo/org.springframework.roo.annotations/1.2.4.RELEASE/org.springframework.roo.annotations-1.2.4.RELEASE.jar
+2014-05-25 13:19:43,117 [New I/O client worker #32-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/springframework/roo/org.springframework.roo.annotations/1.2.4.RELEASE/org.springframework.roo.annotations-1.2.4.RELEASE.jar
+2014-05-25 13:19:43,598 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:44,098 [New I/O client worker #33-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17.jar
+2014-05-25 13:19:44,135 [New I/O client worker #33-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.5/jcl-over-slf4j-1.7.5.jar
+2014-05-25 13:19:44,146 [New I/O client worker #33-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.jar
+2014-05-25 13:19:44,177 [New I/O client worker #33-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.jar
+2014-05-25 13:19:44,378 [New I/O client worker #33-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.5/jcl-over-slf4j-1.7.5.jar
+2014-05-25 13:19:45,710 [New I/O client worker #33-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17.jar
+2014-05-25 13:19:47,552 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2014-05-25 13:19:47,939 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2014-05-25 13:19:48,778 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:49,144 [New I/O client worker #34-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/codehaus/mojo/aspectj-maven-plugin/1.4/aspectj-maven-plugin-1.4.pom
+2014-05-25 13:19:49,156 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:49,612 [New I/O client worker #35-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/codehaus/mojo/aspectj-maven-plugin/1.4/aspectj-maven-plugin-1.4.pom
+2014-05-25 13:19:49,634 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:49,978 [New I/O client worker #36-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/codehaus/mojo/aspectj-maven-plugin/1.4/aspectj-maven-plugin-1.4.pom
+2014-05-25 13:19:49,996 [Worker-9] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 13:19:50,339 [New I/O client worker #37-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/mojo/aspectj-maven-plugin/1.4/aspectj-maven-plugin-1.4.pom
+2014-05-25 13:19:50,354 [New I/O client worker #37-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/mojo/aspectj-maven-plugin/1.4/aspectj-maven-plugin-1.4.pom
+2014-05-25 13:19:56,106 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.curso.android.gerenciadortarefas:gerenciador-tarefas-curso-android:0.1.0.BUILD-SNAPSHOT @ C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\pom.xml.
+2014-05-25 13:20:01,924 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gerenciador-tarefas-curso-android/src/main/java
+2014-05-25 13:20:01,927 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gerenciador-tarefas-curso-android/src/main/resources
+2014-05-25 13:20:02,295 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gerenciador-tarefas-curso-android/src/test/java
+2014-05-25 13:20:02,313 [Worker-9] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /gerenciador-tarefas-curso-android/src/main/aspect does not exist yet. Create it and re-run configuration.
+2014-05-25 13:20:02,318 [Worker-9] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /gerenciador-tarefas-curso-android/src/main/aspect does not exist yet. Create it and re-run configuration.
+2014-05-25 13:20:06,510 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-25 13:20:06,582 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.curso.android.gerenciadortarefas:gerenciador-tarefas-curso-android:0.1.0.BUILD-SNAPSHOT @ C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\pom.xml.
+2014-05-25 13:20:07,597 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gerenciador-tarefas-curso-android/src/main/java
+2014-05-25 13:20:07,599 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gerenciador-tarefas-curso-android/src/main/resources
+2014-05-25 13:20:07,602 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gerenciador-tarefas-curso-android/src/test/java
+2014-05-25 13:20:07,605 [Worker-9] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /gerenciador-tarefas-curso-android/src/main/aspect does not exist yet. Create it and re-run configuration.
+2014-05-25 13:20:07,607 [Worker-9] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /gerenciador-tarefas-curso-android/src/main/aspect does not exist yet. Create it and re-run configuration.
+2014-05-25 13:20:07,908 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2014-05-25 13:20:11,720 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 13:20:11,741 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-25 13:20:11,759 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 13:20:11,761 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\src\test\resources
+2014-05-25 17:07:53,565 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.curso.android.gerenciadortarefas:gerenciador-tarefas-curso-android:0.1.0.BUILD-SNAPSHOT @ C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\pom.xml.
+2014-05-25 17:07:55,002 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:07:55,990 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/hsqldb/hsqldb/2.2.9/hsqldb-2.2.9.pom
+2014-05-25 17:07:56,001 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:07:56,381 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/hsqldb/hsqldb/2.2.9/hsqldb-2.2.9.pom
+2014-05-25 17:07:56,397 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:07:56,995 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/hsqldb/hsqldb/2.2.9/hsqldb-2.2.9.pom
+2014-05-25 17:07:57,010 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:07:57,587 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.2.9/hsqldb-2.2.9.pom
+2014-05-25 17:07:57,622 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.2.9/hsqldb-2.2.9.pom
+2014-05-25 17:07:57,894 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:07:58,280 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/hibernate/hibernate-core/4.2.2.Final/hibernate-core-4.2.2.Final.pom
+2014-05-25 17:07:58,296 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:07:58,669 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/hibernate/hibernate-core/4.2.2.Final/hibernate-core-4.2.2.Final.pom
+2014-05-25 17:07:58,684 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:07:59,043 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/hibernate/hibernate-core/4.2.2.Final/hibernate-core-4.2.2.Final.pom
+2014-05-25 17:07:59,100 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:07:59,449 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.2.2.Final/hibernate-core-4.2.2.Final.pom
+2014-05-25 17:07:59,465 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.2.2.Final/hibernate-core-4.2.2.Final.pom
+2014-05-25 17:08:00,044 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:00,447 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/hibernate/common/hibernate-commons-annotations/4.0.2.Final/hibernate-commons-annotations-4.0.2.Final.pom
+2014-05-25 17:08:00,467 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:00,860 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/hibernate/common/hibernate-commons-annotations/4.0.2.Final/hibernate-commons-annotations-4.0.2.Final.pom
+2014-05-25 17:08:00,886 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:01,279 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/hibernate/common/hibernate-commons-annotations/4.0.2.Final/hibernate-commons-annotations-4.0.2.Final.pom
+2014-05-25 17:08:01,294 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:01,654 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.2.Final/hibernate-commons-annotations-4.0.2.Final.pom
+2014-05-25 17:08:01,823 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.2.Final/hibernate-commons-annotations-4.0.2.Final.pom
+2014-05-25 17:08:02,223 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:02,622 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/hibernate/hibernate-entitymanager/4.2.2.Final/hibernate-entitymanager-4.2.2.Final.pom
+2014-05-25 17:08:02,642 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:03,013 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/hibernate/hibernate-entitymanager/4.2.2.Final/hibernate-entitymanager-4.2.2.Final.pom
+2014-05-25 17:08:03,036 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:03,397 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/hibernate/hibernate-entitymanager/4.2.2.Final/hibernate-entitymanager-4.2.2.Final.pom
+2014-05-25 17:08:03,419 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:03,776 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/4.2.2.Final/hibernate-entitymanager-4.2.2.Final.pom
+2014-05-25 17:08:03,792 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/4.2.2.Final/hibernate-entitymanager-4.2.2.Final.pom
+2014-05-25 17:08:04,304 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:04,688 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/hibernate/hibernate-validator/4.3.1.Final/hibernate-validator-4.3.1.Final.pom
+2014-05-25 17:08:04,703 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:05,071 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/hibernate/hibernate-validator/4.3.1.Final/hibernate-validator-4.3.1.Final.pom
+2014-05-25 17:08:05,077 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:05,449 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/hibernate/hibernate-validator/4.3.1.Final/hibernate-validator-4.3.1.Final.pom
+2014-05-25 17:08:05,464 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:05,806 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/4.3.1.Final/hibernate-validator-4.3.1.Final.pom
+2014-05-25 17:08:05,815 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/4.3.1.Final/hibernate-validator-4.3.1.Final.pom
+2014-05-25 17:08:06,031 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:06,402 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/hibernate/hibernate-validator-parent/4.3.1.Final/hibernate-validator-parent-4.3.1.Final.pom
+2014-05-25 17:08:06,423 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:06,813 [New I/O client worker #22-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/hibernate/hibernate-validator-parent/4.3.1.Final/hibernate-validator-parent-4.3.1.Final.pom
+2014-05-25 17:08:06,835 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:07,184 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/hibernate/hibernate-validator-parent/4.3.1.Final/hibernate-validator-parent-4.3.1.Final.pom
+2014-05-25 17:08:07,203 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:07,551 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator-parent/4.3.1.Final/hibernate-validator-parent-4.3.1.Final.pom
+2014-05-25 17:08:07,719 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator-parent/4.3.1.Final/hibernate-validator-parent-4.3.1.Final.pom
+2014-05-25 17:08:08,066 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:08,455 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.springframework.org/release/org/springframework/spring-jdbc/3.2.3.RELEASE/spring-jdbc-3.2.3.RELEASE.pom
+2014-05-25 17:08:08,461 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/springframework/spring-jdbc/3.2.3.RELEASE/spring-jdbc-3.2.3.RELEASE.pom
+2014-05-25 17:08:08,782 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:09,221 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.springframework.org/release/org/springframework/spring-orm/3.2.3.RELEASE/spring-orm-3.2.3.RELEASE.pom
+2014-05-25 17:08:09,234 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/springframework/spring-orm/3.2.3.RELEASE/spring-orm-3.2.3.RELEASE.pom
+2014-05-25 17:08:09,531 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:09,939 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.pom
+2014-05-25 17:08:09,953 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:10,326 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.pom
+2014-05-25 17:08:10,341 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:10,727 [New I/O client worker #29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.pom
+2014-05-25 17:08:10,741 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:11,081 [New I/O client worker #30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.pom
+2014-05-25 17:08:11,093 [New I/O client worker #30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.pom
+2014-05-25 17:08:11,359 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:11,721 [New I/O client worker #31-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/hsqldb/hsqldb/2.2.9/hsqldb-2.2.9.jar
+2014-05-25 17:08:11,747 [New I/O client worker #31-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/hibernate/hibernate-core/4.2.2.Final/hibernate-core-4.2.2.Final.jar
+2014-05-25 17:08:11,754 [New I/O client worker #31-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/hibernate/hibernate-entitymanager/4.2.2.Final/hibernate-entitymanager-4.2.2.Final.jar
+2014-05-25 17:08:11,761 [New I/O client worker #31-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/hibernate/hibernate-validator/4.3.1.Final/hibernate-validator-4.3.1.Final.jar
+2014-05-25 17:08:11,758 [New I/O client worker #31-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/hibernate/common/hibernate-commons-annotations/4.0.2.Final/hibernate-commons-annotations-4.0.2.Final.jar
+2014-05-25 17:08:11,775 [New I/O client worker #31-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.springframework.org/release/org/springframework/spring-orm/3.2.3.RELEASE/spring-orm-3.2.3.RELEASE.jar
+2014-05-25 17:08:11,755 [New I/O client worker #31-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.jar
+2014-05-25 17:08:11,783 [New I/O client worker #31-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.springframework.org/release/org/springframework/spring-jdbc/3.2.3.RELEASE/spring-jdbc-3.2.3.RELEASE.jar
+2014-05-25 17:08:14,467 [New I/O client worker #31-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/springframework/spring-orm/3.2.3.RELEASE/spring-orm-3.2.3.RELEASE.jar
+2014-05-25 17:08:14,579 [New I/O client worker #31-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/release/org/springframework/spring-jdbc/3.2.3.RELEASE/spring-jdbc-3.2.3.RELEASE.jar
+2014-05-25 17:08:15,442 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:15,810 [New I/O client worker #32-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/hsqldb/hsqldb/2.2.9/hsqldb-2.2.9.jar
+2014-05-25 17:08:15,825 [New I/O client worker #32-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/hibernate/hibernate-core/4.2.2.Final/hibernate-core-4.2.2.Final.jar
+2014-05-25 17:08:15,826 [New I/O client worker #32-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/hibernate/common/hibernate-commons-annotations/4.0.2.Final/hibernate-commons-annotations-4.0.2.Final.jar
+2014-05-25 17:08:15,839 [New I/O client worker #32-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/hibernate/hibernate-entitymanager/4.2.2.Final/hibernate-entitymanager-4.2.2.Final.jar
+2014-05-25 17:08:15,839 [New I/O client worker #32-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.jar
+2014-05-25 17:08:15,841 [New I/O client worker #32-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/hibernate/hibernate-validator/4.3.1.Final/hibernate-validator-4.3.1.Final.jar
+2014-05-25 17:08:15,870 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:16,295 [New I/O client worker #33-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/hibernate/hibernate-validator/4.3.1.Final/hibernate-validator-4.3.1.Final.jar
+2014-05-25 17:08:16,297 [New I/O client worker #33-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/hibernate/hibernate-core/4.2.2.Final/hibernate-core-4.2.2.Final.jar
+2014-05-25 17:08:16,300 [New I/O client worker #33-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/hsqldb/hsqldb/2.2.9/hsqldb-2.2.9.jar
+2014-05-25 17:08:16,304 [New I/O client worker #33-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/hibernate/hibernate-entitymanager/4.2.2.Final/hibernate-entitymanager-4.2.2.Final.jar
+2014-05-25 17:08:16,306 [New I/O client worker #33-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/org/hibernate/common/hibernate-commons-annotations/4.0.2.Final/hibernate-commons-annotations-4.0.2.Final.jar
+2014-05-25 17:08:16,312 [New I/O client worker #33-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://spring-roo-repository.springsource.org/release/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.jar
+2014-05-25 17:08:16,348 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2014-05-25 17:08:16,695 [New I/O client worker #34-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.2.9/hsqldb-2.2.9.jar
+2014-05-25 17:08:16,702 [New I/O client worker #34-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/4.2.2.Final/hibernate-entitymanager-4.2.2.Final.jar
+2014-05-25 17:08:16,703 [New I/O client worker #34-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.jar
+2014-05-25 17:08:16,726 [New I/O client worker #34-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/4.3.1.Final/hibernate-validator-4.3.1.Final.jar
+2014-05-25 17:08:16,736 [New I/O client worker #34-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.2.Final/hibernate-commons-annotations-4.0.2.Final.jar
+2014-05-25 17:08:16,750 [New I/O client worker #34-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.2.2.Final/hibernate-core-4.2.2.Final.jar
+2014-05-25 17:08:17,438 [New I/O client worker #34-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.2.Final/hibernate-commons-annotations-4.0.2.Final.jar
+2014-05-25 17:08:17,895 [New I/O client worker #34-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.jar
+2014-05-25 17:08:18,940 [New I/O client worker #34-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/4.2.2.Final/hibernate-entitymanager-4.2.2.Final.jar
+2014-05-25 17:08:19,297 [New I/O client worker #34-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/4.3.1.Final/hibernate-validator-4.3.1.Final.jar
+2014-05-25 17:08:20,812 [New I/O client worker #34-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.2.9/hsqldb-2.2.9.jar
+2014-05-25 17:08:24,548 [New I/O client worker #34-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.2.2.Final/hibernate-core-4.2.2.Final.jar
+2014-05-25 17:08:31,387 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bravisoftware.samples:tic-tac-toe-restful:0.0.1-SNAPSHOT @ C:\Users\Guilherme\git\tic-tac-toe-restful\pom.xml.
+2014-05-25 17:08:36,355 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:08:36,377 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-05-25 17:08:36,395 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:08:36,399 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\src\test\resources
+2014-05-25 17:08:55,598 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:08:55,771 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-05-25 17:08:55,816 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:08:55,822 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\src\test\resources
+2014-05-25 17:08:58,589 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:08:58,593 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-05-25 17:08:58,659 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:08:58,661 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\git\tic-tac-toe-restful\src\test\resources
+2014-05-25 17:10:46,163 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:10:46,164 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-05-25 17:10:46,166 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:10:46,171 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\src\test\resources
+2014-05-25 17:14:30,480 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:14:30,483 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-05-25 17:14:30,487 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:14:30,489 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\src\test\resources
+2014-05-25 17:14:46,562 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:14:46,564 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-05-25 17:14:46,565 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:14:46,567 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\src\test\resources
+2014-05-25 17:14:58,752 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:14:58,756 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-05-25 17:14:58,760 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:14:58,762 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\src\test\resources
+2014-05-25 17:15:09,159 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:15:09,161 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-05-25 17:15:09,163 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:15:09,166 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\src\test\resources
+2014-05-25 17:16:01,195 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:16:01,198 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-05-25 17:16:01,203 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:16:01,205 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\src\test\resources
+2014-05-25 17:16:28,687 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:16:28,688 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-05-25 17:16:28,689 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:16:28,692 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\src\test\resources
+2014-05-25 17:16:50,036 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:16:50,043 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-05-25 17:16:50,049 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:16:50,053 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\src\test\resources
+2014-05-25 17:16:56,556 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:16:56,558 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-05-25 17:16:56,559 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:16:56,561 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\src\test\resources
+2014-05-25 17:17:25,146 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:17:25,151 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-05-25 17:17:25,154 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:17:25,157 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\src\test\resources
+2014-05-25 17:18:31,228 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.curso.android.gerenciadortarefas:gerenciador-tarefas-curso-android:0.1.0.BUILD-SNAPSHOT @ C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\pom.xml.
+2014-05-25 17:18:33,126 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:18:33,126 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-25 17:18:33,131 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:18:33,133 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\src\test\resources
+2014-05-25 17:18:33,158 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of gerenciador-tarefas-curso-android
+2014-05-25 17:18:33,159 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for gerenciador-tarefas-curso-android
+2014-05-25 17:18:33,170 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:18:33,302 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-25 17:18:33,415 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.curso.android.gerenciadortarefas:gerenciador-tarefas-curso-android:0.1.0.BUILD-SNAPSHOT @ C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\pom.xml.
+2014-05-25 17:18:33,841 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gerenciador-tarefas-curso-android/src/main/java
+2014-05-25 17:18:33,842 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gerenciador-tarefas-curso-android/src/main/resources
+2014-05-25 17:18:33,844 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gerenciador-tarefas-curso-android/src/test/java
+2014-05-25 17:18:33,849 [Worker-17] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /gerenciador-tarefas-curso-android/src/main/aspect does not exist yet. Create it and re-run configuration.
+2014-05-25 17:18:33,856 [Worker-17] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /gerenciador-tarefas-curso-android/src/main/aspect does not exist yet. Create it and re-run configuration.
+2014-05-25 17:18:35,117 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for gerenciador-tarefas-curso-android
+2014-05-25 17:18:35,157 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2014-05-25 17:18:35,206 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-25 17:18:35,311 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.curso.android.gerenciadortarefas:gerenciador-tarefas-curso-android:0.1.0.BUILD-SNAPSHOT @ C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\pom.xml.
+2014-05-25 17:18:37,218 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gerenciador-tarefas-curso-android/src/main/java
+2014-05-25 17:18:37,219 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gerenciador-tarefas-curso-android/src/main/resources
+2014-05-25 17:18:37,219 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gerenciador-tarefas-curso-android/src/test/java
+2014-05-25 17:18:37,219 [Worker-14] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /gerenciador-tarefas-curso-android/src/main/aspect does not exist yet. Create it and re-run configuration.
+2014-05-25 17:18:37,225 [Worker-14] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /gerenciador-tarefas-curso-android/src/main/aspect does not exist yet. Create it and re-run configuration.
+2014-05-25 17:18:38,981 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for gerenciador-tarefas-curso-android
+2014-05-25 17:18:38,988 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2014-05-25 17:18:48,298 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.curso.android.gerenciadortarefas:gerenciador-tarefas-curso-android:0.1.0.BUILD-SNAPSHOT @ C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\pom.xml.
+2014-05-25 17:18:48,929 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:18:48,932 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-05-25 17:18:48,944 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:18:48,944 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\src\test\resources
+2014-05-25 17:19:01,686 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:19:01,687 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-05-25 17:19:01,690 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:19:01,690 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\src\test\resources
+2014-05-25 17:22:48,481 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:22:48,485 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-05-25 17:22:48,490 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:22:48,490 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\src\test\resources
+2014-05-25 17:22:50,130 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:22:50,131 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-05-25 17:22:50,132 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:22:50,132 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\src\test\resources
+2014-05-25 17:29:35,742 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:29:35,745 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-05-25 17:29:35,751 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:29:35,751 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\src\test\resources
+2014-05-25 17:29:37,289 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:29:37,290 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-05-25 17:29:37,291 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 17:29:37,292 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\src\test\resources
+2014-05-25 18:00:07,153 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 18:00:07,157 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-05-25 18:00:07,162 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 18:00:07,162 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\src\test\resources
+2014-05-25 18:16:49,304 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 18:16:49,305 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-05-25 18:16:49,307 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 18:16:49,307 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\src\test\resources
+2014-05-25 18:28:43,426 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 18:28:43,434 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-25 18:28:43,441 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 18:28:43,441 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\src\test\resources
+2014-05-25 18:31:25,869 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.curso.android.gerenciadortarefas:gerenciador-tarefas-curso-android:0.1.0.BUILD-SNAPSHOT @ C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\pom.xml.
+2014-05-25 18:31:26,801 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 18:31:26,801 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-05-25 18:31:26,803 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-25 18:31:26,806 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\gerenciador-tarefas-curso-android\src\test\resources
+2014-05-25 18:31:26,808 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of gerenciador-tarefas-curso-android
+2014-05-25 18:31:26,810 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for gerenciador-tarefas-curso-android
+2014-05-25 18:31:26,818 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.

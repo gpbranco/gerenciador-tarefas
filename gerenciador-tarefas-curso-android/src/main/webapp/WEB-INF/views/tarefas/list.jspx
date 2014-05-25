@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" xmlns:table="urn:jsptagdir:/WEB-INF/tags/form/fields" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <page:list id="pl_br_com_curso_android_gerenciadortarefas_model_Tarefa" items="${tarefas}" z="GNpQLGlqbP8PXz+y/OgyPr6adlI=">
+        <table:table data="${tarefas}" id="l_br_com_curso_android_gerenciadortarefas_model_Tarefa" path="/tarefas" z="owPRrJwx1y5jOfsWkhbm4JKjvTo=">
+            <table:column id="c_br_com_curso_android_gerenciadortarefas_model_Tarefa_titulo" property="titulo" z="2uYsxPRjClyHNnIJphaMrxE6eRQ="/>
+            <table:column id="c_br_com_curso_android_gerenciadortarefas_model_Tarefa_prioridade" property="prioridade" z="WDEz2RY9D9O+BA26HEzAE8ntgFA="/>
+            <table:column id="c_br_com_curso_android_gerenciadortarefas_model_Tarefa_status" property="status" z="9T4d4oUAHDWndqDpCuwuXkn/7Jk="/>
+            <table:column date="true" dateTimePattern="${tarefa_data_date_format}" id="c_br_com_curso_android_gerenciadortarefas_model_Tarefa_data" property="data" z="TaQY+rx2zHF2+ZieA5YsjlXjv+M="/>
+        </table:table>
+    </page:list>
+</div>

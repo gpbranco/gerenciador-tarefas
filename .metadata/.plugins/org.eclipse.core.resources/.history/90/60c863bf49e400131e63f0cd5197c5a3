@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="gerenciador-tarefas-curso-android">
+        <property name="context-root" value="gerenciador-tarefas-curso-android"/>
+    </wb-module>
+</project-modules>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:field="urn:jsptagdir:/WEB-INF/tags/form/fields" xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <page:show id="ps_br_com_curso_android_gerenciadortarefas_model_Tarefa" object="${tarefa}" path="/tarefas" z="423QQPo3x0ta9xWvUGS38DbdGOQ=">
+        <field:display field="titulo" id="s_br_com_curso_android_gerenciadortarefas_model_Tarefa_titulo" object="${tarefa}" z="yxblR7elEj+k8Yhadw9laXb4gLY="/>
+        <field:display field="prioridade" id="s_br_com_curso_android_gerenciadortarefas_model_Tarefa_prioridade" object="${tarefa}" z="Kzaq5N8ZnTpPbKUlN4bixdHH0po="/>
+        <field:display field="status" id="s_br_com_curso_android_gerenciadortarefas_model_Tarefa_status" object="${tarefa}" z="b2tR8e9ibX5UAuGIE5rn+JWRzZg="/>
+        <field:display date="true" dateTimePattern="${tarefa_data_date_format}" field="data" id="s_br_com_curso_android_gerenciadortarefas_model_Tarefa_data" object="${tarefa}" z="OjEJkOOfY98FjDUSLGBkaOK/zP4="/>
+    </page:show>
+</div>

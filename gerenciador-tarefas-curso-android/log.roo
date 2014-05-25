@@ -1,0 +1,25 @@
+// Spring Roo 1.2.4.RELEASE [rev 75337cf] log opened at 2014-05-25 13:18:45
+project --topLevelPackage br.com.curso.android.gerenciadortarefas --projectName gerenciador-tarefas-curso-android --java 7 --packaging JAR
+// Spring Roo 1.2.4.RELEASE [rev 75337cf] log closed at 2014-05-25 13:19:01
+// Spring Roo 1.2.4.RELEASE [rev 75337cf] log opened at 2014-05-25 13:19:06
+// Spring Roo 1.2.4.RELEASE [rev 75337cf] log closed at 2014-05-25 13:29:26
+// Spring Roo 1.2.4.RELEASE [rev 75337cf] log opened at 2014-05-25 17:03:16
+jpa setup --provider HIBERNATE --database HYPERSONIC_IN_MEMORY 
+entity jpa --class ~.model.Tarefa
+field string --fieldName titulo --notNull --unique
+enum type --class ~.model.Prioridade
+enum constant --name BAIXA
+enum constant --name MEDIA
+enum constant --name ALTA
+focus --class ~.model.Tarefa
+field enum --type ~.model.Prioridade --fieldName prioridade
+enum type --class ~.model.Status
+enum constant --name PENDENTE
+enum constant --name FINALIZADA
+focus --class ~.model.Tarefa
+field enum --type ~.model.Status --fieldName status
+web mvc setup 
+web mvc all --package ~.web
+web mvc json all --package ~.api
+json all
+web mvc json all

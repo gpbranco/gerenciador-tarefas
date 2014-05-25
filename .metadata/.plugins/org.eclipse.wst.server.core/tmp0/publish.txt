@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sun May 25 18:31:27 BRT 2014
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Guilherme\\.m2\\repository\\org\\springframework\\spring-web\\3.2.3.RELEASE\\spring-web-3.2.3.RELEASE.jar=C\:\\springsource\\3_4\\vfabric-tc-server-developer-2.9.3.RELEASE\\base-instance\\wtpwebapps\\gerenciador-tarefas-curso-android\\WEB-INF\\lib\\spring-web-3.2.3.RELEASE.jar
+org.eclipse.jst.jee.server\:gerenciador-tarefas-curso-android=C\:\\springsource\\3_4\\vfabric-tc-server-developer-2.9.3.RELEASE\\base-instance\\wtpwebapps\\gerenciador-tarefas-curso-android

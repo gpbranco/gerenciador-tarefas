@@ -1,0 +1,11 @@
+INDEX VERSION 1.126
+C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2759564575.index
+\gerenciador-tarefas-curso-android\src\main\java
+C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3714831475.index
+\gerenciador-tarefas-curso-android\src\main\java
+C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3322319873.index
+\tic-tac-toe-restful\src\main\java
+C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1575442356.index
+\gerenciador-tarefas-curso-android\src\main\java
+C:\Users\Guilherme\Documents\workspace-sts-3.4.0.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1823457479.index
+\tic-tac-toe-restful\src\main\java
